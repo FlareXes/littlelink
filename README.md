@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> This project is a fork of [LittleLink](https://github.com/sethcottle/littlelink). Please show your support for their amazing work!
+> This project is a fork of [LittleLink](https://github.com/sethcottle/littlelink). Please show your support on their amazing work!
 
 ![Logo](https://cdn.cottle.cloud/littlelink/littlelink.gif)
 
